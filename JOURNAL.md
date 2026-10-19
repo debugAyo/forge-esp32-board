@@ -24,7 +24,7 @@ Ran into clearance issues with the small resistors crowding the bottom edge arou
 
 
 
-!\[pcb layout](pcb.png)
+!\[pcb layout](/pcb.png)
 
 \*\*Total time spent: 5 hours\*\*
 
