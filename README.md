@@ -1,4 +1,4 @@
-\# forge-esp32-board
+\#forge-esp32-board
 
 
 
@@ -10,19 +10,19 @@ The goal of this project is to build an everyday prototyping board tailored to b
 
 
 
-\## Hardware Features
+\# Hardware Features
 
 
 
-\* \*\*MCU:\*\* ESP32 module (integrated Wi-Fi \& Bluetooth)
+\*\*MCU:\*\* ESP32 module (integrated Wi-Fi \& Bluetooth)
 
-\* \*\*Power \& Data:\*\* USB-C port with 5V to 3.3V LDO regulator
+\*\*Power \& Data:\*\* USB-C port with 5V to 3.3V LDO regulator
 
-\* \*\*Controls:\*\* Tactile buttons for hardware Reset (`EN`) and Boot (`GPIO0`)
+\*\*Controls:\*\* Tactile buttons for hardware Reset (`EN`) and Boot (`GPIO0`)
 
-\* \*\*Form Factor:\*\* Dual 8-pin headers arranged for direct breadboard mounting
+\*\*Form Factor:\*\* Dual 8-pin headers arranged for direct breadboard mounting
 
-\* \*\*Design Tool:\*\* KiCad 8 / 9
+\*\*Design Tool:\*\* KiCad 8 / 9
 
 
 
@@ -30,15 +30,15 @@ The goal of this project is to build an everyday prototyping board tailored to b
 
 
 
-\* \[x] Schematic design \& electrical check
+\[x] Schematic design \& electrical check
 
-\* \[x] PCB layout \& component placement
+\[x] PCB layout \& component placement
 
-\* \[ ] Trace routing \& GND copper pours (In Progress)
+\[ ] Trace routing \& GND copper pours (In Progress)
 
-\* \[ ] Design Rules Check (DRC) verification
+\[ ] Design Rules Check (DRC) verification
 
-\* \[ ] Fabrication \& assembly
+\[ ] Fabrication \& assembly
 
 
 
