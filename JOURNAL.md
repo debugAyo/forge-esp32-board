@@ -24,7 +24,7 @@ Ran into clearance issues with the small resistors crowding the bottom edge arou
 
 
 
-!\[pcb layout](images/pcb-v1.png)
+!\[pcb layout](images/pcb-v1.jpg)
 
 
 
