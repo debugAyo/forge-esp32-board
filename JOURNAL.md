@@ -12,17 +12,21 @@ created\_at: "2026-10-19"
 
 
 
-\## Update 1
+\# October 19: Finished schematic and component placement
 
 
 
-\- Time spent: \~5 hours
-
-\- What I did: Completed the schematic design in KiCad, placed all the components, aligned the 2.54mm pin headers for breadboard spacing, and positioned the antenna keep-out boundary on the board layout.
-
-\- Next up: Route the 3.3V power rail and USB data lines, finish the remaining signal connections, and fill the ground planes.
+Wrapped up the schematic in KiCad today. Got the USB-C port, 3.3V LDO regulator circuit, and boot/reset buttons wired up, then imported everything into the PCB editor.
 
 
 
+Spent time arranging the dual 8-pin headers to ensure standard breadboard pitch. I also positioned the ESP32-C3 module so the PCB antenna hangs off the top edge with a clear keep-out zone. Next up is routing the power traces and USB differential lines before filling the ground planes.
 
+
+
+!\[ESP32-C3 PCB Layout](images/pcb-layout.png)
+
+
+
+\*\*Total time spent: 5 hours\*\*
 
