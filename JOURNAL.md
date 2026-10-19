@@ -1,3 +1,4 @@
+<img width="623" height="576" alt="pcb" src="https://github.com/user-attachments/assets/1f45a1b3-e5ae-4142-a7ec-994cde83b7ce" />
 \---
 
 title: "ESP32-C3 Mini Dev Board"
@@ -24,7 +25,7 @@ Ran into clearance issues with the small resistors crowding the bottom edge arou
 
 
 
-!\[pcb layout](/pcb.png)
+
 
 \*\*Total time spent: 5 hours\*\*
 
