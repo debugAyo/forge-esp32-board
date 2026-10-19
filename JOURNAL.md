@@ -4,7 +4,7 @@ title: "ESP32-C3 Mini Dev Board"
 
 author: "DebugAyo"
 
-description: "A compact, breadboard-friendly ESP32-C3 development board with USB-C and onboard power regulation, designed in KiCad"
+description: "A compact ESP32-C3 dev board designed in KiCad"
 
 created\_at: "2026-10-19"
 
@@ -12,19 +12,19 @@ created\_at: "2026-10-19"
 
 
 
-\# October 19: Finished schematic and component placement
+\# October 19: Designed the schematic and PCB layout
 
 
 
-Wrapped up the schematic in KiCad today. Got the USB-C port, 3.3V LDO regulator circuit, and boot/reset buttons wired up, then imported everything into the PCB editor.
+Got the full schematic wired up in KiCad today. Imported all the footprints onto the PCB, lined up the dual 8-pin headers for a breadboard fit, and added the antenna keep-out zone.
 
 
 
-Spent time arranging the dual 8-pin headers to ensure standard breadboard pitch. I also positioned the ESP32-C3 module so the PCB antenna hangs off the top edge with a clear keep-out zone. Next up is routing the power traces and USB differential lines before filling the ground planes.
+Ran into clearance issues with the small resistors crowding the bottom edge around the USB-C footprint. Had to rip up that section and move the parts around to route cleanly.
 
 
 
-!\[ESP32-C3 PCB Layout](images/pcb-layout.png)
+!\[pcb layout](images/pcb-v1.png)
 
 
 
