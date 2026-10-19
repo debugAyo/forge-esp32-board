@@ -1,0 +1,12 @@
+# KiCad temporary & autosave files
+*.kicad_prl
+*-bak
+*-bak2
+_autosave-*
+*.tmp
+*.history/
+
+# Fabrication outputs (generate these fresh before ordering)
+*.net
+*.drl
+*.gbr

@@ -1,0 +1,330 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "36811e14-a9b6-481e-8c03-93600ed666fa")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 69.85 126.365)
+		(end 92.71 140.335)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0c94d4f6-5cc6-415f-adf8-4e9a426ec8bc")
+	)
+	(rectangle
+		(start 121.92 161.29)
+		(end 144.78 175.26)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "43d44c17-de75-450c-8b72-1f4eb3c190a0")
+	)
+	(rectangle
+		(start 132.08 93.345)
+		(end 176.53 137.16)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "4c2d8869-70c4-4920-8565-1e578703f930")
+	)
+	(rectangle
+		(start 215.9 93.98)
+		(end 255.27 123.19)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "4d81f098-3802-4f3a-8f25-d58e4493ab0d")
+	)
+	(rectangle
+		(start 195.326 41.91)
+		(end 227.076 62.23)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bc0768f1-83db-48df-ad60-100d60420e0a")
+	)
+	(rectangle
+		(start 77.47 41.91)
+		(end 123.19 62.23)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c7b8dae0-2e29-4f26-a690-30f41f50ca65")
+	)
+	(rectangle
+		(start 69.85 99.695)
+		(end 92.71 113.665)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "f078eff8-5fc4-4707-924a-7184d0e15392")
+	)
+	(text "LED\n"
+		(exclude_from_sim no)
+		(at 209.55 53.34 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "06e8ae31-5fc2-44f4-85ae-bc2431ce9453")
+	)
+	(text "USB-C"
+		(exclude_from_sim no)
+		(at 95.25 52.07 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "115afb6b-e973-4ae4-a441-91edb6a1b6e5")
+	)
+	(text "ESP32-C3\n"
+		(exclude_from_sim no)
+		(at 153.924 114.808 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1701a6ce-5a19-4444-a86f-b82eeccf63db")
+	)
+	(text "BOOT-BTN\n"
+		(exclude_from_sim no)
+		(at 81.788 106.68 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "2ac86e32-1729-4e55-b63f-079a758c5b23")
+	)
+	(text "CRYSTAL\n"
+		(exclude_from_sim no)
+		(at 133.096 168.402 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "65cd4c74-56fe-49a0-b161-534c79420f2f")
+	)
+	(text "PIN HEADERS\n"
+		(exclude_from_sim no)
+		(at 234.442 108.712 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a8fe3e58-e364-448b-af34-13186602dcfd")
+	)
+	(text "RST-BTN\n"
+		(exclude_from_sim no)
+		(at 81.28 134.62 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b2c62010-a816-4dcf-a53d-e18d519d9ad6")
+	)
+	(polyline
+		(pts
+			(xy 180.34 66.04) (xy 165.1 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0739c0fa-7440-404c-b57a-796d5ed97d4d")
+	)
+	(polyline
+		(pts
+			(xy 152.4 149.86) (xy 152.4 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c2017f2-a010-412e-8a34-0c551261a6ca")
+	)
+	(polyline
+		(pts
+			(xy 212.09 63.5) (xy 212.09 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b06e68f-aa29-42f3-8ea0-16c98f2897a6")
+	)
+	(polyline
+		(pts
+			(xy 134.62 149.86) (xy 134.62 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fa10220-5167-4eb5-a0da-a08ef302f639")
+	)
+	(polyline
+		(pts
+			(xy 152.4 149.86) (xy 134.62 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68785932-ff9a-41f1-9eab-348443971cf0")
+	)
+	(polyline
+		(pts
+			(xy 95.25 132.08) (xy 125.73 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "790dcfdf-8145-4d17-8264-4c6260210735")
+	)
+	(polyline
+		(pts
+			(xy 119.38 105.41) (xy 125.73 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79253b0e-29bb-492f-bbe7-e60564ee3d2d")
+	)
+	(polyline
+		(pts
+			(xy 127 50.8) (xy 189.23 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "866c23ef-6422-4bab-9eaf-c8b042ff036f")
+	)
+	(polyline
+		(pts
+			(xy 177.8 66.04) (xy 212.09 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c324c2c-6ae0-46ed-bd9e-024e269b1b76")
+	)
+	(polyline
+		(pts
+			(xy 180.34 114.3) (xy 214.63 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "918b6771-ee49-4228-b42c-a7a7c1d6682e")
+	)
+	(polyline
+		(pts
+			(xy 95.25 105.41) (xy 125.73 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a52623f2-6808-4eaa-b2d1-79ad958aae6a")
+	)
+	(polyline
+		(pts
+			(xy 180.34 105.41) (xy 214.63 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c48808df-07e5-4a72-9e1b-08244a1550db")
+	)
+	(polyline
+		(pts
+			(xy 119.38 105.41) (xy 125.73 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4eb4322-fec5-4484-922f-f39b4a2e7c6d")
+	)
+	(polyline
+		(pts
+			(xy 165.1 66.04) (xy 165.1 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9c9a9c9-fb0d-4f87-bb0a-87adade5a768")
+	)
+	(group ""
+		(uuid "15ac66a7-6833-4b41-85ee-bba76bd79cdf")
+		(members "43d44c17-de75-450c-8b72-1f4eb3c190a0" "65cd4c74-56fe-49a0-b161-534c79420f2f")
+	)
+	(group ""
+		(uuid "1d85c088-188c-4172-b606-56d0804d36e0")
+		(members "0c94d4f6-5cc6-415f-adf8-4e9a426ec8bc" "b2c62010-a816-4dcf-a53d-e18d519d9ad6")
+	)
+	(group ""
+		(uuid "2ff2b41f-9047-42ce-b5f3-d99e7b806f2b")
+		(members "1701a6ce-5a19-4444-a86f-b82eeccf63db" "4c2d8869-70c4-4920-8565-1e578703f930")
+	)
+	(group ""
+		(uuid "72b89264-ce73-4f04-97c9-fefc97e488ad")
+		(members "115afb6b-e973-4ae4-a441-91edb6a1b6e5" "c7b8dae0-2e29-4f26-a690-30f41f50ca65")
+	)
+	(group ""
+		(uuid "dd01e491-1b06-4827-b4ad-7c09da433e89")
+		(members "2ac86e32-1729-4e55-b63f-079a758c5b23" "f078eff8-5fc4-4707-924a-7184d0e15392")
+	)
+	(group ""
+		(uuid "df4e1de5-3939-4f36-853b-06609421c068")
+		(members "4d81f098-3802-4f3a-8f25-d58e4493ab0d" "a8fe3e58-e364-448b-af34-13186602dcfd")
+	)
+	(group ""
+		(uuid "f19e5c83-3ee6-4d28-b27c-9a4a1b442796")
+		(members "06e8ae31-5fc2-44f4-85ae-bc2431ce9453" "bc0768f1-83db-48df-ad60-100d60420e0a")
+	)
+)
